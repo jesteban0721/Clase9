@@ -38,7 +38,7 @@ class Ventana1(QMainWindow):
         self.fondo = QLabel(self)
 
         #definimos la imagen de fondo
-        self.imagenFondo = QPixmap('imagenes/fondo.jpg')
+        self.imagenFondo = QPixmap('imagenes/fondo2.jpg')
 
         #definimos la imagen de fondo
         self.fondo.setPixmap(self.imagenFondo)
