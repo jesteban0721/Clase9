@@ -1,6 +1,6 @@
-maria jose pulgarin;mariapl12;12345678;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
-maria jose pulgarin;mariapl12;12345678;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
-d;d;d;d;d;d;d;d;d;d;d;d
-d;d;d;d;d;d;d;d;d;d;d;d
-d;d;d;d;d;d;d;d;d;d;d;d
-s;s;s;s;123645;s;s;s;s;s;s;s
+maria jose pulgarin;mariapl12;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
+maria jose pulgarin;mariapl12;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
+d;d;d;d;d;d;d;;d;d;d;d
+d;d;d;d;d;d;d;;d;d;d;d
+d;d;d;d;d;d;d;;d;d;d;d
+s;s;s;s;;s;s;s;s;s;s;s
