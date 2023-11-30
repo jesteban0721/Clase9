@@ -4,3 +4,4 @@ d;d;d;d;d;d;d;;d;d;d;d
 d;d;d;d;d;d;d;;d;d;d;d
 d;d;d;d;d;d;d;;d;d;d;d
 s;s;s;s;;s;s;s;s;s;s;s
+maria jose pulgarin;mj2013;12345678;;1015068731;mariajose@gmail.com;fecha de nacimiento;22072005;nombre de la madre;tatiana;nombre del padre;carlos
