@@ -11,3 +11,4 @@ d;d;d;d;d;d;d;;d;d;d;d
 d;d;d;d;d;d;d;;d;d;d;d
 s;s;s;s;;s;s;s;s;s;s;s
 >>>>>>> 5263f4cbc7bfeb36473af3ea2f096302bfe4e983
+juan esteban;jeunes;159;159;1001470306;jesteban0721@gmail.com;si;si;no;no;tal vez;tal vez

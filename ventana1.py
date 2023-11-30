@@ -553,7 +553,7 @@ class Ventana1(QMainWindow):
 
         # validar si el documento es numerico
         if (
-                not self.documento.text().isnumeric()
+            not self.documento.text().isnumeric()
         ):
             self.datosCorrectos = False
 
@@ -570,7 +570,7 @@ class Ventana1(QMainWindow):
 
         # si los datos estan correctos
         if (
-                self.datosCorrectos
+            self.datosCorrectos
         ):
             # abrimos el archivo en modo lectura
             self.file = open('datos/clientes.txt', 'rb')
@@ -580,7 +580,6 @@ class Ventana1(QMainWindow):
 
             while self.file:
                 linea = self.file.readline().decode('UTF-8')
-
                 # obtenemos del string una lista con 11 datos separados por ;
                 lista = linea.split(";")
                 # se para si ya no hay mas registros en el archivo
