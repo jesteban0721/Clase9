@@ -10,5 +10,9 @@ d;d;d;d;d;d;d;;d;d;d;d
 d;d;d;d;d;d;d;;d;d;d;d
 d;d;d;d;d;d;d;;d;d;d;d
 s;s;s;s;;s;s;s;s;s;s;s
+<<<<<<< HEAD
 >>>>>>> 5263f4cbc7bfeb36473af3ea2f096302bfe4e983
 juan esteban;jeunes;159;159;1001470306;jesteban0721@gmail.com;si;si;no;no;tal vez;tal vez
+=======
+maria jose pulgarin;mj2013;12345678;;1015068731;mariajose@gmail.com;fecha de nacimiento;22072005;nombre de la madre;tatiana;nombre del padre;carlos
+>>>>>>> 8a98cd05e08d6d295c07edfa195748660e26f570
