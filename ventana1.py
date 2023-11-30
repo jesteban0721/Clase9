@@ -400,10 +400,6 @@ class Ventana1(QMainWindow):
         # establecemos el layout para la ventana
         self.ventanaDialogo.setLayout(self.vertical)
 
-        # variable para controlar que se han ingresado los datos correctos
-        self.datosCorrectos = True
-
-
     # Metodo del botonLimpiar:
     def accion_botonLimpiar(self):
         self.nombreCompleto.setText('')
@@ -419,10 +415,9 @@ class Ventana1(QMainWindow):
         self.pregunta3.setText('')
         self.respuesta3.setText('')
 
-
-
     # Metodo del botonRegistrar:
     def accion_botonRegistrar(self):
+
         # Creamos la ventana de dialogo:
         self.ventanaDialogo = QDialog(None, QtCore.Qt.WindowSystemMenuHint | QtCore.Qt.  WindowTitleHint)
 
@@ -534,6 +529,10 @@ class Ventana1(QMainWindow):
 
     #Metodo del boton buscar
     def accion_botonBuscar(self):
+
+        # variable para controlar que se han ingresado los datos correctos
+        self.datosCorrectos = True
+
         # establecemos el titulo de la ventana:
         self.ventanaDialogo.setWindowTitle("buscar preguntas de validacion")
 
