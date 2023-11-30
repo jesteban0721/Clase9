@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 maria jose pulgarin;mariapl12;12345678;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
 maria jose pulgarin;mariapl12;12345678;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
 d;d;d;d;d;d;d;d;d;d;d;d
 sfa;sdf;12;12;dsfa;asd;sds;sd;sd;sd;sd;sd
+=======
+maria jose pulgarin;mariapl12;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
+maria jose pulgarin;mariapl12;12345678;1015068731;mariajoseQgmial.com;fecha de nacimiento;22072005;nombre de la mascota;misun;placa de carro;ASC478
+d;d;d;d;d;d;d;;d;d;d;d
+d;d;d;d;d;d;d;;d;d;d;d
+d;d;d;d;d;d;d;;d;d;d;d
+s;s;s;s;;s;s;s;s;s;s;s
+>>>>>>> 5263f4cbc7bfeb36473af3ea2f096302bfe4e983
